@@ -3,11 +3,11 @@
 [![NPM Version][npm-image]][npm-url]
 [![Node Version][node-image]][node-url]
 
+# :warning:	Deprecated, please goto :point_right:	[koaland](https://github.com/cooperhsiung/koaland)
+
 <p align="center"><img src="logo.png" width="480"/></p>
 
 :rocket: A progressive, minimalist framework for building microservices on top of Koa & TypeScript.
-
-# :warning:	Deprecated, please goto :point_right:	[koaland](https://github.com/cooperhsiung/koaland)
 
 ## Features
 
