@@ -7,6 +7,8 @@
 
 :rocket: A progressive, minimalist framework for building microservices on top of Koa & TypeScript.
 
+# :warning:	Deprecated, please goto :point_right:	[koaland](https://github.com/cooperhsiung/koaland)
+
 ## Features
 
 - :globe_with_meridians: Protocol agnostic, `write once, run anywhere`, includes http,thrift,grpc..
